@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PokeListApp</string>
+    <string name="pokemon_name">Pokemon Name</string>
+    <string name="pokemon_image">Image of Pokemon</string>
+    <string name="pokemon_name1">Name of Pokemon</string>
+    <string name="base_experience">Base Experience: %d</string>
+    <string name="height">Height: %d cm</string>
+    <string name="weight">Weight: %d hg</string>
+    <string name="order">Order: %d</string>
+
+</resources>
